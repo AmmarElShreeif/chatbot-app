@@ -2,9 +2,6 @@
 
 ## Getting Started
 
-## Available Scripts
-
-
 ### install packages.
 
 ```bash
